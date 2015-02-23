@@ -1,0 +1,83 @@
+Ger 12;        Ovsjannikov            L.V.     ;Lekcii po osnovam gazovoj dinamiki;M.: Nauka., 1981;61;*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ger 13;Birkgof G.;Gidrodinamika;1954;61;*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ger 14;Halfman R.L.;Dinamika;M.: Nauka, 1972;62;*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ger 15;Galiullin A.S.;Obratnye zadachi dinamiki;M.: Nauka, 1981;64;*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Ger 16;Klimishin I.A.;Udarni hvili v neodnoridnih seredovishhah;Vidav. L'vivs. un-tu, 1972;61;*
+Ger 17;Gordin V.A.;Matematicheskie zadachi gidrodinamicheskogo prognoza pogody;L.: Gidrometeoizdat, 1987;61;*
+Ger 18;Landau L.D.          Lifshic E.M.;Mehanika i jelektrodinamika Kniga 1;M.: Nauka, 1969;58;*
+Ger 19;Landau L.D.          Lifshic E.M.;Mehanika i jelektrodinamika Kniga 1;M.: Nauka, 1969;58;*
+Ger 20;Rejf F.;Statisticheskaja fizika;M.: Nauka, 1972;58;*
+Ger 21;Vihman Je.;Kvantavaja fizika;M.: Nauka, 1974;58;*
+Ger 22;Migdal A.B.        Krajnov v,p,;Priblizhennye metody kvantovoj mehaniki;M.: Nauka, 1966;54;Lekh Roman
+Ger 23;Blohincev D.I.;Principial'nye voprosy kvantovoj mehaniki;M.: Nauka, 1966;54;Chak Norris
+Ger 24;Freman N.              Freman P.U.;VKB-priblizhenie. Per. s angl. Lysova B.A.;M.: Mir, 1967;54;*
+Ger 25;Zajman Dzh. ;Vychislenie blohovskih funkcij. Per.s angl. Mironova A.G.;M.: Mir, 1973;54;*
+Ger 26;Lojcjanskij L.G.;Mehanika zhidkosti i gaza;M.: Nauka, 1978;61;*
+Ger 27;Ferri A.;Ajerodinamika sverhzvukovyh techenij;M.-L.: Gos.izd. tehniko-teor. lit., 1952;61;*
+Ger 28;Kunin I.A.;Teorija uprugosti sred s mikrostrukturoj ;M.: Nauka, 1978;65;*
+Ger 29;Barinova M.F.      Golubeva O.V.;Zadachi i uprazhnenija po klassicheskoj mehanike;M.: Vysshaja shkola, 1980;64;*
+Ger 30;Lunc Ja.L.;Vvedenie v teoriju giroskopov;M.: Nauka, 1972;64;*
+Ger 31;Merkin A.R.;Vvedenie v teoriju ustojchivosti dvizhenija;M.: Nauka, 1971;64;*
+Ger 32;Mandel'shtam L.I.;Lekcii po teorii kolebanij;M.: Nauka, 1972;62;*
+Ger 33;Magnus K. ;Kolebanija;M.: Mir, 1982 ;62;*
+Ger 34;Hartri D.;Raschety atomnyh struktur;M.: Izd. inostr. lit., 1960;48;*
+Ger 35;Brink D.M.;Kernkrafte Einfuhrung und Originaltehte;Akademie- Verlag-Berlin, 1971;54;*
+Ger 36;Ludvig G.;Vellenmechanik Einfuhrung und Originaltehte;Akademie- Verlag-Berlin, 1969;54;*
+Ger 37;Galickij  V.M.       Karnakov B.M.        Kogan V.I.;Zadachi po kvantovoj mehanike;M.: Nauka,1981;54;*
+Ger 38;Blohincev D.I.;Kvantovaja mehanika ;M.: Atomizdat, 1981;54;*
+Ger 39;Maks Dzhemmer;Jevoljucija ponjatij kvantovoj mehaniki;M.: Nauka,1982;54;*
+Ger 40;Blohincev D.I.;Prostranstvo i vremja v mikromire;M.: Nauka,1986;54;*
+Ger 41;Lere Zh.;Lagranzhev analiz i kvantovaja mehanika. Per. s fr. Shapiro Z.Ja. ;M.: Mir, 1980;54;*
+Ger 43;Zubarev A.L.;Variacionnyj princip Shvingera v kvantovoj mehanike;M.: Jenergoizdat, 1981;54;*
+Ger 44;Bom D.;Kvantovaja teorija;M.: Nauka, 1965;54;*
+Ger 45;Landau L.D.          Lifshic E.M.;Kvantovaja mehanika Kniga 2;1972;54;*
+Ger 46;Jenriko Fermi;Kvantovaja mehanika (konspekt lekcij);M.: Mir, 1965;54;*
+Ger 47;Jenriko Fermi;Kvantovaja mehanika (konspekt lekcij);M.: Mir, 1968;54;*
+Ger 48;Balashov V.V.         Dolinov V.K.;Kurs kvantovoj mehaniki;M.: Izd. MGU, 1982;54;*
+Ger 49;Jeljutin P.V.              Krivchenkov V.D.;Kvantovaja mehanika s zadachami;M.: Nauka, 1976;54;*
+Ger 50;Sokolov A.A.        Ternov I.M.            Zhukovskij V.Ch.;Kvantovaja mehanika ;M.: Nauka, 1979;54;*
+Ger 51;Blohincev D.I.;Osnovy kvantovoj mehaniki;M.-L.: Gos.izd. tehniko-teor. lit., 1949;54;*
+Ger 52;Lipkin G.;Kvantovaja mehanika ;M.: Mir, 1977;54;*
+Ger 53;Blohincev D.I.;Osnovy kvantovoj mehaniki;M.: Vysshaja shkola, 1963;54;*
+Ger 54;Zubov V.P.;Razvitie atomisticheskih predstavlenij do nachala HIH veka;1965;108;*
+Ger 55;Kuznecov B.G.;Razvitie fizicheskih idej ot Galileja do Jenshtejna v svete sovremennoj nauki;M.: Nauka, 1966;109;*
+Ger 56;Dorfman Ja.G.;Vsemirnaja istorija fiziki s drevnejshih vremen do konca 18 veka;M.: Nauka, 1974;109;*
+Ger 61;Zajman Dzh. ;Modeli bezporjadka;M.: Mir, 1982 ;87;*
+Ger 63;Petrov A.Z.;Prostranstva Jejnshtejna;M.: Gos.izd. fiz-mat.lit., 1961;91;*
+Ger 64;Bouler M.;Gravitacija i otnositel'nost';M.: Mir, 1979;91;*
+Ger 65;Infel'd L.      Pleban'skij E.;Dvizhenie i reljativizm;M.: Izd. inostr. lit., 1962;90;*
+Ger 66;Sbornik statej;Gravitacija i teorija otnosmtel'nosti;Izd. Kazanskogo univ., 1960;91;*
+Ger 67;Pod redakciej Hokinga S.      Izrajelja V.;Obshhaja teorijaja otnositel'nosti;M.: Mir, 1983;91;*
+Ger 68;Sb. nauch. rabot Meller K. Bondi G.Karrelli  A.i dr.;Astrofizika, kvanty i teorijaja otnositel'nosti;M.: Mir, 1982 ;90;*
+Ger 69;Jaglom I.M.;Princip otnositel'nosti Galileja i neevklidova geometrija;M.: Nauka, 1969;90;*
+Ger 70;Frankfurt U.I.;Special'naja i obshhaja teorijaja otnositel'nosti;M.: Nauka, 1968;90;*
+Ger 71;Hans-Jurgen Treder;Die Relativitat der Tragheit;Akademie- Verlag-Berlin, 1972;90;*
+Ger 72;Ugarov V.A.;Special'naja teorijaja otnositel'nosti;M.: Nauka, 1969;90;*
+Ger 73;Maks Born ;Obshhaja teorija otnositel'nosti Jejnshejna i ee fizicheskie osnovy;M.-L.: ONTI, 1939;90;*
+Ger 74;Vjal'cev A.N.;Diskretnoe prostranstvo vremeni;M.: Nauka, 1965;91;*
+Ger 75;Brilljujen L.;Novyj vzgljad na teoriju otnositel'nosti;M.: Mir, 1972;90;*
+Ger 76;Petrov A.Z.;Novye metody v obshhej teorii otnositel'nosti;M.: Nauka, 1966;91;*
+Ger 77;Gurevich L.Je.      Chernin A.D.;Obshhaja teorija otnositel'nosti v fizicheskoj kartine mira ;M.: Znanie, 1970;91;*
+Ger 79;Gol'denblat I.I. Ul'janov S.V.;Vvedenie v teoriju otnositel'nosti i ee prilozhenija k novoj tehnike;M.: Nauka, 1979;90;*
+Ger 80;Zaharov V.D.;Gravitacionnye volny v teorii tjagotenija Jejnshtejna;M.: Nauka, 1972;91;*
+Ger 81;Brilljujen L.;Novyj vzgljad na teoriju otnositel'nosti;M.: Mir, 1972;90;*
+Ger 82;Bergman P.G.;Vvedenie v teoriju otnositel'nosti ;M.: Poligrafkniga, 1947;90;*
+Ger 78;Lajtman A.        Press V.;Sbornik zadach po teorii otnositel'nosti i gravitacii;1979;;Farenjuk O.
+Ger 144;Kittel' I.;Kvantovaja teorija tverdogo tela;1967;;Farenjuk O.
+Ger 149;Zajman Dzh. ;Principy teorii tverdogo tela ;1974;;Farenjuk O.
+11;Demidovich B.P. Maron I.A.;Osnovy vychislitel'noj matematiki;M.: Nauka, 1970;;Farenjuk O.
+376;Meller K.;Teorija otnositel'nosti;1975;;Farenjuk O.
+526;Bogoljubov N.N. Sadovnikov B.I.;Nekotorye voprosy statisticheskoj mehaniki;M.: Vysshaja shkola, 1975;;Farenjuk O.
+558;Potter D.;Vychislitel'nye metody v fizike;M.: Mir, 1975;;Farenjuk O.
+784;Rumer Ju.B.       Fet A.I.;Teorija grupp i kvantovye polja;M.: Nauka, 1977;;Farenjuk O.
+822;Novozhilov Ju.V. Jappa Ju.A.;Jelektrodinamika;M.: Nauka, 1978;;Farenjuk O.
+1213;Katcan G.;Jazyk FORTRAN 77;M.: Mir, 1982;;Farenjuk O.
+1304;Leontovich M.A.;Vvedenie v termodinamiku. Statisticheskaja fizika;M.: Nauka, 1983;;Farenjuk O.
+1563;Petrina D.Ja. ;Kvantovaja teorija polja;K.: Vishha shkola, 1984;;Farenjuk O.
+1583;Tompson Dzh.M.T.;Neustochivosti i katastrofy v nauke i tehnike;M.: Mir, 1985;;Farenjuk O.
+1680;Nelipa N.F.;Fizika jelementarnyh chastic. Kalibrovochnye polja;M.: Vysshaja shkola, 1985;;Farenjuk O.
+1732;Ahiezer A.I. Peletminskij S.V.;Polja i funkcional'nye vzaimodejstvija;K.: Naukova dumka, 1986;;Farenjuk O.
+1802;Ul'janov V.V.;Metody kvantovoj kinetiki;H.: Vishha shkola, 1987;;Farenjuk O.
+1808;Bahvalov N.S. Zhidkov N.P. Kobel'kov G.M.;Chislennye metody;M.: Nauka, 1987;;Farenjuk O.
+1837;Smirnov B.M.;Problema sharovoj molnii;M.: Nauka, 1988;;Farenjuk O.
+1922;Bugrov Ja.S. Nikol'skij E.M.;Differencial'nye uravnenija. Kratnye integraly. Rjady. Funkcii kompleksnogo peremennogo;M.: Nauka, 1989;;Farenjuk O.
